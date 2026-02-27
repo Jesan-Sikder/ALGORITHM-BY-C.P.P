@@ -74,24 +74,5 @@ This repository includes implementations and problem solutions related to:
 gcc filename.c -o output
 ./output
 
----
 
 
-## 👨‍💻 Author
-
-## Jesan Sikder
-
-> ~ Citizen of the Death World
-
-🎓 Daffodil International University
-📍 Bangladesh
-
----
-
-## 🌐 Connect With Me
-
-* Portfolio: [https://sites.google.com/view/hr-jesan](https://sites.google.com/view/hr-jesan)
-* Beecrowd: [https://judge.beecrowd.com/en/profile/921324](https://judge.beecrowd.com/en/profile/921324)
-* Codeforces: [https://codeforces.com/profile/alpha545](https://codeforces.com/profile/alpha545)
-* LeetCode: [https://leetcode.com/u/hr545/](https://leetcode.com/u/hr545/)
-* CodeChef: [https://www.codechef.com/users/hr545](https://www.codechef.com/users/hr545)
