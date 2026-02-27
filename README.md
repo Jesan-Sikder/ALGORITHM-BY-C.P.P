@@ -74,8 +74,10 @@ This repository includes implementations and problem solutions related to:
 gcc filename.c -o output
 ./output
 
+---
 
-# 👨‍💻 Author
+
+## 👨‍💻 Author
 
 ## Jesan Sikder
 
